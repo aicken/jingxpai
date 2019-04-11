@@ -1,0 +1,35 @@
+::-webkit-input-placeholder {
+    color: #ccc;
+}
+:-moz-placeholder {/* Firefox 18- */
+    color: #ccc;
+}
+::-moz-placeholder{/* Firefox 19+ */
+    color: #ccc;
+}
+:-ms-input-placeholder {
+    color: #ccc;
+}
+
+.category-small-box{
+    cursor: default;
+}
+.category-small-box h4{
+    color: #333;
+    font-size: 18px;
+}
+.category-small-box p{
+    font-size: 14px;
+    line-height: 22px;
+}
+.listing-item-container{
+    cursor: default;
+}
+
+.footer-info p{
+    font-size: 14px;
+    color: #999;
+}
+.open-form{
+    border-top: 1px solid rgba(0,0,0,0.09);
+}
