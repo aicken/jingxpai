@@ -33,3 +33,24 @@
 .open-form{
     border-top: 1px solid rgba(0,0,0,0.09);
 }
+.home-media{
+    text-align: center;
+}
+.home-media ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.home-media li{
+    float: left;
+    margin: 5px 22px;
+
+}
+.home-media img{
+    width: auto;
+    height: 80px;
+    opacity: .6;
+}
+.home-media li a:hover img{
+    opacity: 1;
+}
