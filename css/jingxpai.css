@@ -54,3 +54,10 @@
 .home-media li a:hover img{
     opacity: 1;
 }
+
+section.fullwidth .listing-item-container.home-media-container{
+    box-shadow: none;
+    background: none;
+    margin-bottom: 0;
+    cursor: pointer;
+}
