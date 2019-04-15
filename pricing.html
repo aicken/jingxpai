@@ -363,6 +363,8 @@ E-Mail：<span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-c
             success:function(res){
                 if(res.status=="success"){
                     window.location.href="confirmation.html"
+                }else{
+                    alert(res.errors.message);
                 }
             }
         })
