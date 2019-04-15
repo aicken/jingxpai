@@ -15937,9 +15937,9 @@ body .category-box-btn:hover {
 @media (max-width: 1239px) {
 
 	#navigation.style-1 {
-		margin: 25px 0 5px -5px;
+		/* margin: 25px 0 5px -5px;
 		width: 100%;
-		padding-top: 15px;
+		padding-top: 15px; */
 		padding-bottom: 0;
 		position: relative;
 	}
@@ -15948,7 +15948,7 @@ body .category-box-btn:hover {
 		position: absolute;
 		width: 100%;
 		height: 1px;
-		display: block;
+		/* display: block; */
 		top:0;
 		left: 5px;
 		content: "";
