@@ -15946,14 +15946,14 @@ body .category-box-btn:hover {
 
 	#navigation.style-1:before {
 		position: absolute;
-		width: 100%;
+		/* width: 100%; */
 		height: 1px;
 		/* display: block; */
 		top:0;
 		left: 5px;
 		content: "";
 		background: #e8e8e8;
-		width: 940px;
+		/* width: 940px; */
 	}
 
 	.fullwidth #navigation.style-1:before { background: linear-gradient(to right, #e8e8e8 50%, #fff); }
