@@ -61,3 +61,16 @@ section.fullwidth .listing-item-container.home-media-container{
     margin-bottom: 0;
     cursor: pointer;
 }
+
+#titlebar.aboutus-titlebar{
+    background: url("img/aboutus_banner.png?92837472");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    padding: 90px 0;
+}
+#titlebar.aboutus-titlebar h1,
+#titlebar.aboutus-titlebar h2,
+#titlebar.aboutus-titlebar #breadcrumbs,
+#titlebar.aboutus-titlebar #breadcrumbs ul li a{
+    color: #fff;
+}
