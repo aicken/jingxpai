@@ -64,7 +64,7 @@ section.fullwidth .listing-item-container.home-media-container{
 
 #titlebar.aboutus-titlebar{
     background: url("../img/aboutus_banner.png?57873734");
-    background-size: 100% auto;
+    background-size: cover;
     background-repeat: no-repeat;
     padding: 90px 0;
 }
